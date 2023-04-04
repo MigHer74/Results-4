@@ -1,5 +1,7 @@
 # Results v4.0
 
+## Description
+
 I decided to rewrite this python project in order to improve previous versions.
 
 The main idea is to obtain how many times a number is repeating in a list of 36 and 108 numbers.
@@ -17,3 +19,7 @@ I use SQL script files contains sql sentences to update the data after enter de 
 For this project I'm using 2 python modules ("os" and "tabulate") and elements like functions, lists, tuples and statements if, elif and for.
 
 The program is still growing, so I'm going to still update the progress.
+
+## Project Files
+
+## Project Folders
