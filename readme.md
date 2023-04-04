@@ -24,9 +24,9 @@ The program is still growing, so I'm going to still update the progress.
 
 ## Project Files
 
-| File      | Description |
-| --------- | ----------- |
-
+| File      | Description                    |
+| :-------: | :----------------------------: |
+| main.py   | Main Menu and program launcher |
 
 <br>
 
