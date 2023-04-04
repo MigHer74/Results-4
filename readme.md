@@ -4,7 +4,7 @@ I decided to rewrite this python project in order to improve previous versions.
 
 The main idea is to obtain how many times a number is repeating in a list of 36 and 108 numbers.
 
-I based the idea in the results of a local lottery who playa several times a week, so each list is the result of the winner combination.
+I based the idea in the results of a local lottery who plays several times a week, so each list is the result of the winning combination.
 
 After enter the data of each week, the program shows the numbers who have 2, 3, 4 and 5 or more repetitions separately in the shorter version of the game (36 numbers) and in the long version of the game (108 numbers).
 
