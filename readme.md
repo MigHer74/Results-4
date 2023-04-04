@@ -18,11 +18,18 @@ I use SQL script files contains sql sentences to update the data after enter de 
 
 For this project I'm using 2 python modules ("os" and "tabulate") and elements like functions, lists, tuples and statements if, elif and for.
 
+<br>
+
 The program is still growing, so I'm going to still update the progress.
 
+<br>
+
 ## Project Files
+
+<br>
 
 ## Project Folders
 
 <br>
-> If you think education is expensive, try ignorance. - Derek Bok
+
+> ### **If you think education is expensive, try ignorance. - Derek Bok**
