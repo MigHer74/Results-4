@@ -9,7 +9,7 @@ print(mainMenu)
 mainSelect = input("Please, choose an option: ")
 
 match mainSelect:
-    case "P" | "p" : print("You choose play a game.")
+    case "P" | "p" : launcher.subMenuGame()
     case "R" | "r" : print("You choose replay a game.")
     case "E" | "e" : print("You choose enter previous data.")
     case "V" | "v" : print("You choose view data of the database.")
