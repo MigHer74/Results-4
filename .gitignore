@@ -1,3 +1,4 @@
 *.txt
 *.db
 *.sql
+__pycache__/
