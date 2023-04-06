@@ -2,7 +2,7 @@ import os
 
 os.system("cls")
 
-mainMenu = "Main Menu\n\nP - Play Game\nR - Replay Game\nE - Enter Previous Data\nV - View Data\nD - Delete Data\n-----------------------\nX - Exit"
+mainMenu = "Main Menu\n\nP - Play Game\nR - Replay Game\nE - Enter Previous Data\nV - View Data\nD - Delete Data\n-----------------------\nX - Exit\n"
 
 print(mainMenu)
 mainSelect = input("Please, choose an option: ")
