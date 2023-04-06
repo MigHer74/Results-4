@@ -24,11 +24,12 @@ The program is still growing, so I'm going to still update the progress.
 
 ## Project Files
 
-| File       | Description                           |
-| :--------: | :-----------------------------------: |
-| readme.md  | Project description and documentation |
-| main.py    | Main menu and program launcher        |
-| .gitignore | File exceptions of the project        |
+| File        | Description                                                  |
+| :---------: | :----------------------------------------------------------: |
+| readme.md   | Project description and documentation                        |
+| main.py     | Main menu and program launcher                               |
+| launcher.py | File who has functions that are launching from the main menu |
+| .gitignore  | File exceptions of the project                               |
 
 <br>
 
