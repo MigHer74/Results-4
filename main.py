@@ -1,5 +1,5 @@
 import os
-import launcher
+import launcher as lnr
 
 mainControl = True
 
@@ -12,7 +12,7 @@ while mainControl:
     mainSelect = input("Please, choose an option: ")
 
     match mainSelect:
-        case "P" | "p" : launcher.subMenuGame()
+        case "P" | "p" : lnr.subMenuGame()
         case "R" | "r" : print("You choose replay a game.")
         case "E" | "e" : print("You choose enter previous data.")
         case "V" | "v" : print("You choose view data of the database.")
