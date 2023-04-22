@@ -21,15 +21,9 @@ def verify_tbl():
     cnx.close()
 
 def check_data():
-    verify = True
-    while verify:
-        try:
-            cnx = connect_db()
-            cur = cnx.cursor()
-            cur.execute("SELECT * FROM games")
-            curData = cur.fetchall()
-            verify = False
-        except sqlite3.OperationalError:
-            create_tbl()
-    
+    cnx = connect_db()
+    cur = cnx.cursor()
+    cur.execute("SELECT * FROM games")
+    curData = cur.fetchall()
+
     return curData
