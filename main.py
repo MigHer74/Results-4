@@ -1,5 +1,8 @@
 import os
 import launcher as lnr
+import dbactions as dba
+
+dba.verify_tbl()
 
 mainControl = True
 
